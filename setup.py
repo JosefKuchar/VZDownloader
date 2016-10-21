@@ -24,7 +24,7 @@ setup(
     ],
     install_requires = [
         "colorama",
-        "configparser",
-        "pdflib"
+        "pdfkit",
+        "natsort"
     ]
 )
